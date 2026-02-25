@@ -45,7 +45,7 @@ APK fajl je dostupan u [Releases](https://github.com/aminamemiic/VandaCoerulea/r
 
 ---
 
-## 🛠️ Pokretanje iz izvornog koda
+## Pokretanje iz izvornog koda
 
 ### Preduvjeti
 
